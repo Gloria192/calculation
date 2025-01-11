@@ -39,5 +39,7 @@ form .display input{
      font-size: 45px;
      text-align: right;
      box-shadow: none;
-  ;
+}
+form input .equal{
+    
 }
